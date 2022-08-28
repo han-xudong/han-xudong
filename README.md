@@ -3,4 +3,4 @@ Ph.D. student in Shenzhen, China
 
 - 😉 I’m currently working on soft robotics, machine learning and mechanical design.
 - 💻 Website for more infomation: http://hanxudong159.cc
-- 📫 How to reach me: 11812519@mail.sustech.edu.cn
+- 📫 How to reach me: 12231112@mail.sustech.edu.cn
