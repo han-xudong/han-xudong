@@ -1,5 +1,5 @@
 ### Hi there, I'm Xudong Han 👋
-Ph.D. student in Shenzhen, China
+Ph.D. candidate in Southern University of Science and Technology, Shenzhen, China
 
 - 😉 I’m currently working on soft robotics, machine learning and mechanical design.
 - 💻 Website for more infomation: https://hanxudong159.cc
