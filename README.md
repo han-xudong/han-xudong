@@ -4,4 +4,4 @@ Ph.D. student, [Southern University of Science and Technology](https://www.suste
 
 - 😉 I’m currently working on soft robotics, machine learning and mechanical design.
 - 📫 How to reach me: 12231112@mail.sustech.edu.cn
-- 💖 Website: (https://hanxudong159.cc/)https://hanxudong159.cc/
+- 💖 Website: https://hanxudong159.cc/
