@@ -8,6 +8,7 @@ Doctoral student at [Southern University of Science and Technology (SUSTech)](ht
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:12231112@mail.sustech.edu.cn)
 [![Years Badge](https://badges.strrl.dev/years/han-xudong?style=flat-square&logo=github)]([https://badges.strrl.dev](https://github.com/han-xudong))
 [![Public Repos Badge](https://badges.strrl.dev/repos/han-xudong?style=flat-square&logo=github)](https://github.com/han-xudong?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=han-xudong&style=flat-square&color=orange)]([https://badges.strrl.dev](https://github.com/han-xudong))
 
 🌱 Currently working on bio-inspired design and machine learning of soft robotics.
 
