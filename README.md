@@ -16,4 +16,4 @@ Doctoral student at [Southern University of Science and Technology (SUSTech)](ht
 
 <img align="center" src="https://skillicons.dev/icons?i=py,java,c,cpp,pytorch,matlab,blender,unity,figma,ps&perline=5&theme=dark" />
 
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=han-xudong&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" /><img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=han-xudong&hide_border=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=han-xudong&include_all_commits=true&hide_border=true&hide_title=true" /><img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=han-xudong&hide_border=true" />
