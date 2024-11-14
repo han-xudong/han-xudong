@@ -14,7 +14,7 @@ Doctoral student at [Southern University of Science and Technology (SUSTech)](ht
 
 💖 Personal website: https://hanxudong.cc
 
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,matlab,blender,unity,figma,ps&perline=5&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,matlab,blender,abaqus,figma,ps&perline=5&theme=dark" />
 
 <br />
 
