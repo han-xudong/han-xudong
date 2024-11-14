@@ -18,4 +18,4 @@ Doctoral student at [Southern University of Science and Technology (SUSTech)](ht
 
 <br />
 
-<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=han-xudong&count_private=true&hide_border=true&hide_title=true" />
+<img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=han-xudong&count_private=true&hide_border=true&hide_title=true" />
