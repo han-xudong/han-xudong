@@ -15,7 +15,3 @@ PhD student at [Southern University of Science and Technology (SUSTech)](https:/
 💖 Personal website: https://hanxudong.cc
 
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,blender,ps,ai&perline=4&theme=dark" />
-
-<br />
-
-<img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=han-xudong&count_private=true&hide_border=true&hide_title=true" />
