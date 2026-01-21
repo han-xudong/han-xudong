@@ -10,8 +10,8 @@ PhD student at [Southern University of Science and Technology (SUSTech)](https:/
 [![Public Repos Badge](https://badges.strrl.dev/repos/han-xudong?logo=github)](https://github.com/han-xudong?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=han-xudong&color=orange)]([https://badges.strrl.dev](https://github.com/han-xudong))
 
-🌱 Currently working on soft robot design and learning.
+🌱 Currently working on robot design and learning.
 
 💖 Personal website: https://hanxudong.cc
 
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,pytorch,blender,ps,ai,figma&perline=5&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,pytorch,ros,ps,ai,figma&perline=5&theme=dark" />
