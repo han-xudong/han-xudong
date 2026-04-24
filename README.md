@@ -12,16 +12,27 @@
 
 Currently working on **physical intelligence and embodied AI systems**
 
-* ✋ Physical Intelligence — vision-based deformable perception, multimodal learning
-* 🧠 Embodied AI — behavior, VLA, interaction
-* ⚙️ Robot Systems — sim2real, teleoperation, real-world deployment
+* ✋ **Physical Intelligence** — vision-based deformable perception, multimodal learning
+* 🧠 **Embodied AI** — behavior, VLA, interaction
+* ⚙️ **Robot Systems** — sim2real, teleoperation, real-world deployment
 
 ---
 
 ### Selected Work
 
-* **[MagiClaw](https://github.com/asMagiClaw/magiclaw)** — dual-use, vision-Based soft gripper system
-* **[ProSoRo](https://github.com/ancorasir/ProSoRo)** — vision-based deformable perception of soft robots
+* 🦞 **[MagiClaw](https://github.com/asMagiClaw/magiclaw)** — dual-use, vision-Based soft gripper system for robotic data collection
+* 📊 **[lerobot-dataset-visualizer](https://github.com/han-xudong/lerobot-dataset-visualizer)** - enhanced visualizer for both online and local lerobot dataset
+* 🧑‍💻 **[elite-principles-skills](https://github.com/han-xudong/elite-principles-skills)** - engineering personas for coding agents.
+* 🦑 **[ProSoRo](https://github.com/ancorasir/ProSoRo)** — vision-based deformable perception of soft robots
+* 🦾 **[MSVC](https://github.com/ancorasir/DesignLearnRG_euROBIN)** - fastest automated task board solution
+* 🤌 **[PropSE](https://prop-se.hanxudong.cc)** - amphibious touch estimation with proprioceptive soft finger
+* **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool
+* 📖 **[tags-generator](https://github.com/han-xudong/tags-generator)** - online generation, customization, and export of ArUco and AprilTag markers
+* 🤗 **[hf_downloader](https://github.com/han-xudong/hf_downloader)** - enhanced hugging face downloader (aria2)
+* 📸 **[metacam](https://github.com/han-xudong/metacam)** - robot module to capture and transmit image in real-time
+* 🎮 **[pyDHgripper](https://github.com/han-xudong/pyDHgripper)** - Python library to control DH robot gripper
+* ⚡️ **[pyLKMotor](https://github.com/han-xudong/pyLKMotor)** - Python library to control the LK motor
+* 🔧 **[pyNetFT](https://github.com/han-xudong/pyNetFT)** - Python interface for the ATI force/torque sensor with Net F/T
 
 ---
 
