@@ -1,6 +1,6 @@
 # Han Xudong 👋
 
-🤖 PhD Student in Robotics @ [SUSTech](https://www.sustech.edu.cn)
+📍 PhD Student in Robotics @ [SUSTech](https://www.sustech.edu.cn) | 🤖 Robotics Builder | 🚀 AI-Native Explorer
 
 > Building embodied AI systems that sense, learn, and act.
 
