@@ -26,7 +26,7 @@ Currently working on **physical intelligence and embodied AI systems**
 * 🦑 **[ProSoRo](https://github.com/ancorasir/ProSoRo)** — vision-based deformable perception of soft robots
 * 🦾 **[MSVC](https://github.com/ancorasir/DesignLearnRG_euROBIN)** - fastest automated task board solution
 * 🤌 **[PropSE](https://prop-se.hanxudong.cc)** - amphibious touch estimation with proprioceptive soft finger
-* **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool
+* 🧮 **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool
 * 📖 **[tags-generator](https://github.com/han-xudong/tags-generator)** - online generation, customization, and export of ArUco and AprilTag markers
 * 🤗 **[hf_downloader](https://github.com/han-xudong/hf_downloader)** - enhanced hugging face downloader (aria2)
 * 📸 **[metacam](https://github.com/han-xudong/metacam)** - robot module to capture and transmit image in real-time
