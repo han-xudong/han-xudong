@@ -28,6 +28,7 @@ Currently working on **physical intelligence and embodied AI systems**
 * 🤌 **[PropSE](https://prop-se.hanxudong.cc)** - amphibious touch estimation with proprioceptive soft finger
 * 🧮 **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool [cam_calib](https://han-xudong.github.io/camera_calibrator/)
 * 📖 **[tags-generator](https://github.com/han-xudong/tags-generator)** - online generation, customization, and export of ArUco and AprilTag markers [tagsgen.top](https://tagsgen.top/)
+* 🎛 **[hf-space-manager](https://github.com/han-xudong/hf-space-manager)** - hugging face space manager
 * 🤗 **[hf_downloader](https://github.com/han-xudong/hf_downloader)** - enhanced hugging face downloader (aria2)
 * 📸 **[metacam](https://github.com/han-xudong/metacam)** - robot module to capture and transmit image in real-time
 * 🎮 **[pyDHgripper](https://github.com/han-xudong/pyDHgripper)** - Python library to control DH robot gripper
