@@ -10,10 +10,9 @@
 
 ### About
 
-Currently working on **physical intelligence and embodied AI systems**
+Currently working on **embodied AI and robot systems**
 
-* ✋ **Physical Intelligence** — vision-based deformable perception, multimodal learning
-* 🧠 **Embodied AI** — behavior, VLA, interaction
+* 🧠 **Embodied AI** — behavior, VLA, HMI, vision-based deformable perception
 * ⚙️ **Robot Systems** — sim2real, teleoperation, real-world deployment
 
 ---
