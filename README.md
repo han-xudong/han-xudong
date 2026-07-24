@@ -1,6 +1,6 @@
 # Han Xudong 👋
 
-📍 PhD Student in Robotics @ [SUSTech](https://www.sustech.edu.cn) | 🤖 Robotics Builder | 🚀 AI-Native Explorer
+📍 PhD Student in Robotics @ [SUSTech](https://www.sustech.edu.cn) | 🤖 Robotics Builder | 🚀 AI Explorer
 
 > Building embodied AI systems that sense, learn, and act.
 
@@ -22,7 +22,7 @@ Currently working on **embodied AI and robot systems**
 * 🦞 **[MagiClaw](https://github.com/asMagiClaw/magiclaw)** — dual-use, vision-Based soft gripper system for robotic data collection
 * 📊 **[lerobot-dataset-visualizer](https://github.com/han-xudong/lerobot-dataset-visualizer)** - enhanced visualizer for both online and local lerobot dataset
 * 🧑‍💻 **[elite-principles-skills](https://github.com/han-xudong/elite-principles-skills)** - engineering personas for coding agents.
-* 🦑 **[ProSoRo](https://github.com/ancorasir/ProSoRo)** — vision-based deformable perception of soft robots
+* 🦑 **[ProSoRo](https://github.com/prosoro-family)** — vision-based deformable perception of soft robots
 * 🦾 **[DLRG-MSVC](https://github.com/ancorasir/DesignLearnRG_euROBIN)** - fastest automated task board solution in MSVC at IROS 2024
 * 🤌 **[PropSE](https://prop-se.hanxudong.cc)** - amphibious touch estimation with proprioceptive soft finger
 * 🧮 **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool [cam-calib](https://cam-calib.robonebula.com/)
@@ -33,7 +33,7 @@ Currently working on **embodied AI and robot systems**
 * 📸 **[metacam](https://github.com/han-xudong/metacam)** - robot module to capture and transmit image in real-time
 * 🎮 **[pyDHgripper](https://github.com/han-xudong/pyDHgripper)** - Python library to control DH robot gripper
 * ⚡️ **[pyLKMotor](https://github.com/han-xudong/pyLKMotor)** - Python library to control the LK motor
-* 🔧 **[pyNetFT](https://github.com/han-xudong/pyNetFT)** - Python interface for the ATI force/torque sensor with Net F/T
+* 🔧 **[pyNetFT](https://github.com/netft/pyNetFT)** - Python interface for the ATI force/torque sensor with Net F/T
 
 ---
 
