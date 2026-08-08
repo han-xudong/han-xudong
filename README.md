@@ -25,15 +25,15 @@ Currently working on **embodied AI and robot systems**
 * 🦑 **[ProSoRo](https://github.com/prosoro-family)** — vision-based deformable perception of soft robots
 * 🦾 **[DLRG-MSVC](https://github.com/ancorasir/DesignLearnRG_euROBIN)** - fastest automated task board solution in MSVC at IROS 2024
 * 🤌 **[PropSE](https://prop-se.hanxudong.cc)** - amphibious touch estimation with proprioceptive soft finger
-* 🧮 **[camera_calibrator](https://github.com/han-xudong/camera_calibrator)** - online camera calibration tool [cam-calib](https://cam-calib.robonebula.com/)
-* ⚒️ **[hand-eye-calibrator](https://github.com/han-xudong/hand-eye-calibrator)** - online hand-eye calibration tool [hand-eye](https://hand-eye.robonebula.com/)
-* 📖 **[tags-generator](https://github.com/han-xudong/tags-generator)** - online generation, customization, and export of ArUco and AprilTag markers [tagsgen.top](https://tagsgen.top/)
-* 🎛 **[hf-space-manager](https://github.com/han-xudong/hf-space-manager)** - hugging face space manager
-* 🤗 **[hf_downloader](https://github.com/han-xudong/hf_downloader)** - enhanced hugging face downloader (aria2)
+* 🧮 **[camera_calibrator](https://github.com/robonebula/camera_calibrator)** - online camera calibration tool [cam-calib](https://cam-calib.robonebula.com/)
+* ⚒️ **[hand-eye-calibrator](https://github.com/robonebula/hand-eye-calibrator)** - online hand-eye calibration tool [hand-eye](https://hand-eye.robonebula.com/)
+* 📖 **[tags-generator](https://github.com/robonebula/tags-generator)** - online generation, customization, and export of ArUco and AprilTag markers [tagsgen.top](https://tagsgen.top/)
+* 🎛 **[hf-space-manager](https://github.com/robonebula/hf-space-manager)** - hugging face space manager
+* 🤗 **[hf_downloader](https://github.com/robonebula/hf_downloader)** - enhanced hugging face downloader (aria2)
 * 📸 **[metacam](https://github.com/han-xudong/metacam)** - robot module to capture and transmit image in real-time
 * 🎮 **[pyDHgripper](https://github.com/han-xudong/pyDHgripper)** - Python library to control DH robot gripper
 * ⚡️ **[pyLKMotor](https://github.com/han-xudong/pyLKMotor)** - Python library to control the LK motor
-* 🔧 **[pyNetFT](https://github.com/netft/pyNetFT)** - Python interface for the ATI force/torque sensor with Net F/T
+* 🔧 **[netft](https://github.com/netft)** - Open source tools for the ATI force/torque sensor with Net F/T
 
 ---
 
