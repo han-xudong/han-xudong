@@ -33,6 +33,7 @@ Currently working on **embodied AI and robot systems**
 * 🦾 **[DLRG-MSVC](https://github.com/ancorasir/DesignLearnRG_euROBIN)** — manipulation system; Fastest Automated Task Board Solution Award, IROS 2024
 * 📊 **[LeRobot Dataset Visualizer](https://github.com/robonebula/lerobot-dataset-visualizer)** — extended fork for exploring local and Hugging Face datasets
 * 🔧 **[Net F/T](https://github.com/netft)** — ATI force/torque sensor SDKs, ROS drivers, and visualization tools
+* ⚙️ **[MotorFit](https://github.com/motorfit/motorfit)** — motor data acquisition, BAM-based identification, and simulation validation
 
 More tools: [camera_calibrator](https://github.com/robonebula/camera_calibrator) · [hand-eye-calibrator](https://github.com/robonebula/hand-eye-calibrator) · [tags-generator](https://github.com/robonebula/tags-generator) · [pyDHgripper](https://github.com/han-xudong/pyDHgripper) · [pyLKMotor](https://github.com/han-xudong/pyLKMotor) · [hf-space-manager](https://github.com/robonebula/hf-space-manager) · [hf_downloader](https://github.com/robonebula/hf_downloader) · [elite-principles-skills](https://github.com/han-xudong/elite-principles-skills)
 
